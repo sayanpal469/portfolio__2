@@ -1,4 +1,5 @@
-.about__me__image {
+/* .about__me__image {
+    box-shadow: ;
     border-radius: 2rem;
     overflow: hidden;
     transform: rotate(10deg);
@@ -7,7 +8,7 @@
 
 .about__me__image:hover{
     transform: rotate(0);
-}
+} */
 
 .about__card {
     background: var(--color-bg-variant);

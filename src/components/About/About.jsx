@@ -17,7 +17,6 @@ const About = () => {
                 </div>
 
                 <div>
-                    <h1 className='text-4xl mb-3 text-orange-500'>I'm Sayan Paul</h1>
                     <p>I live in India. My hometown is West Bengal. I am a student of BA and my subject is Bengali. But now I am learning MERN STACK Devolopment form <span className='font-bold'>Programming Hero</span>. I have a passion for learning and sharing my knowlage with others as publicly as possible. I love solve rea-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.My goal is to be Full Stack web developer,which i believe is going to be a great career choice for the future alongwith i want to be a web developer tutor,work on a system that has X scale or complexity.</p>
 
                     <a href="#contact" className="btn btn-warning mt-5">
